@@ -4,7 +4,5 @@ LTO_ENABLE = yes
 # CONSOLE_ENABLE = yes
 EXTRAKEY_ENABLE = yes
 ENCODER_MAP_ENABLE = yes
-
 VIA_ENABLE = yes
-
-WPM_ENABLE = yes
+# WPM_ENABLE = yes
