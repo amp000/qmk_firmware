@@ -78,12 +78,13 @@ CMakeLists.txt
 tags
 
 # Ignore image/font files
+# modifies so I can upload my pngs
 *.bmp
 *.wbmp
 *.gif
 *.jpg
 *.jpeg
-*.png
+# *.png
 *.apng
 *.mng
 *.svg
