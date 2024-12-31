@@ -191,7 +191,7 @@ static void print_status_narrow(void) {
     //         oled_write("UNDEF", false);
     // }
 
-    // write the base layer (default or gaming)
+    // write the base layer
     oled_set_cursor(0, 3);
     oled_write("BASE", false);
     oled_set_cursor(0, 4);

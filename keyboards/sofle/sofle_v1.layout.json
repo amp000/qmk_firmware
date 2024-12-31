@@ -45,7 +45,7 @@
       "KC_C",
       "KC_V",
       "KC_B",
-      "MT(MOD_LCTL,KC_ESC)",
+      "DF(4)",
       "KC_LCTL",
       "KC_LALT",
       "MO(2)",
